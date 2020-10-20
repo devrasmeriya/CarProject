@@ -25,7 +25,7 @@ SECRET_KEY = 'e7e&d+ll_&9ib(ma)0#6!4c50z%z2c8o%ke1cswi5pt^wg7ea4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://car-prediction--app.herokuapp.com/",'127.0.0.1']
 
 
 # Application definition
